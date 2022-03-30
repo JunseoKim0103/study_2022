@@ -1,4 +1,4 @@
-print("안녕하세요!")
+
 print("이름: 김준서")
 print("학번: 2019313442")
 print("분야: Backend")
